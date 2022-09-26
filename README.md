@@ -1,3 +1,3 @@
-# java-web-app
+# Demo java-webapp
 
 modify README
